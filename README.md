@@ -9,7 +9,7 @@
 My name is **Dylan Villarreal Toscano**, I'm 21 years old and I'm a student of **Software Engenieer** at University of Colima (**UDC**) in México.
 I am currently frontend developer in HMH Systems. I am completely passionate about frontend development. I am passionate about designing and editing images with PS and Illustrator. My hobbies include reading and camping.
 
-<img align= "right" width= "450" src= "https://pa1.narvii.com/6518/f67185290b03fa0d76a387137bacff5193b4e020_hq.gif"/>
+<img align= "right" width= "300" src= "https://pa1.narvii.com/6518/f67185290b03fa0d76a387137bacff5193b4e020_hq.gif"/>
 
 
 - I’m currently work  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
