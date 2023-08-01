@@ -6,8 +6,13 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillarreal0@ucol.mx)
 
 
-My name is **Dylan Villarreal Toscano**, I'm 21 years old and I'm a student of **Software Engenieer** at University of Colima (**UDC**) in México.
-I am currently frontend developer in HMH Systems. I am completely passionate about frontend development. I am passionate about designing and editing images with PS and Illustrator. My hobbies include reading and camping.
+My name is **Dylan Villarreal Toscano**, I am a highly motivated software developer with outstanding skills in frontend development. Throughout my academic and professional career, I have gained a solid foundation in software development and have been able to hone my skills through real-world projects and experiences.
+
+I specialize in technologies such as React and Vue, and have experience in developing web and mobile applications using react-native. I believe that following best practices is key to producing high-quality code, and I take pride in delivering clean, efficient, and maintainable code. I enjoy working in a team environment, where I can share my ideas, learn from others, and collaborate to achieve common goals.
+
+In addition to my technical skills, I possess soft skills that are essential for software developers. Communication, problem-solving, time management, attention to detail, and teamwork are just some of the skills that I possess and have applied in the projects I have worked on.
+
+Overall, I am a quick learner, a hard worker, and a team player. My experience and skills make me an asset to any team, and I am always eager to learn and grow.
 
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6518/f67185290b03fa0d76a387137bacff5193b4e020_hq.gif"/>
 
