@@ -34,4 +34,6 @@ Overall, I am a quick learner, a hard worker, and a team player. My experience a
 
 <img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=dylanson25&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
+[![An image of @dylanson25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dylanson25)](https://holopin.io/@dylanson25)
+
 :star: From [Dylanson25](https://github.com/dylanson25)
