@@ -6,26 +6,26 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillarreal0@ucol.mx)
 
 
-My name is **Dylan Villarreal Toscano**, I am a highly motivated software developer with outstanding skills in frontend development. Throughout my academic and professional career, I have gained a solid foundation in software development and have been able to hone my skills through real-world projects and experiences.
+My name is Dylan Villarreal Toscano, a highly motivated software developer currently working as a Software Engineer at Irwin Research & Development. In my role, I utilize tools such as Visual Studio, C#, C++, .NET Framework, and Windows Forms to develop and maintain software solutions.
 
-I specialize in technologies such as React and Vue, and have experience in developing web and mobile applications using react-native. I believe that following best practices is key to producing high-quality code, and I take pride in delivering clean, efficient, and maintainable code. I enjoy working in a team environment, where I can share my ideas, learn from others, and collaborate to achieve common goals.
+I graduated in July 2023 from the University of Colima, where I earned my degree in Software Engineering from the Faculty of Telematics. Throughout my academic and professional journey, I have built a solid foundation in software development, honing my skills through hands-on projects and diverse experiences.
 
-In addition to my technical skills, I possess soft skills that are essential for software developers. Communication, problem-solving, time management, attention to detail, and teamwork are just some of the skills that I possess and have applied in the projects I have worked on.
+During my time at HMH Sistemas in Colima, where I worked for 1 year and 7 months while studying, I specialized in React and Vue technologies. I gained valuable experience developing web and mobile applications using React Native, and I believe that following best practices is crucial to producing high-quality code. I take pride in delivering clean, efficient, and maintainable solutions.
 
-Overall, I am a quick learner, a hard worker, and a team player. My experience and skills make me an asset to any team, and I am always eager to learn and grow.
+In addition to my technical expertise, I possess essential soft skills that make a well-rounded software developer. Effective communication, problem-solving, time management, attention to detail, and teamwork are skills that I consistently apply in my work.
 
+I am a quick learner, a dedicated worker, and a team player. My experience and skill set make me a valuable asset to any team, and I am always eager to learn, grow, and contribute.
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6518/f67185290b03fa0d76a387137bacff5193b4e020_hq.gif"/>
 
 
-- I’m currently work  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-
+- I’m currently work  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 - 🌱 I’m currently learning
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-
+<code><img height="20" src="https://github.com/graphql/graphql-playground/blob/main/packages/graphql-playground-electron/static/icons/icon.ico"></code>
+<code><img height="20" src="https://github.com/astro-community/icons/blob/main/example/public/favicon.ico"></code>
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
