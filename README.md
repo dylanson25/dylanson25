@@ -15,7 +15,7 @@ During my time at HMH Sistemas in Colima, where I worked for 1 year and 7 months
 In addition to my technical expertise, I possess essential soft skills that make a well-rounded software developer. Effective communication, problem-solving, time management, attention to detail, and teamwork are skills that I consistently apply in my work.
 
 I am a quick learner, a dedicated worker, and a team player. My experience and skill set make me a valuable asset to any team, and I am always eager to learn, grow, and contribute.
-<img align= "right" width= "300" src= "https://pa1.narvii.com/6518/f67185290b03fa0d76a387137bacff5193b4e020_hq.gif"/>
+
 
 
 - I’m currently work  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
