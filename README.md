@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-toscano/)
 [<img src="https://img.shields.io/github/followers/dylanson25?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dylanson25) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dylan_toscano_25/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillarreal0@ucol.mx)
+
 
 
 My name is Dylan Villarreal Toscano, a highly motivated software developer currently working as a Software Engineer at Irwin Research & Development. In my role, I utilize tools such as Visual Studio, C#, C++, .NET Framework, and Windows Forms to develop and maintain software solutions.
