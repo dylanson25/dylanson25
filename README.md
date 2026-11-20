@@ -1,39 +1,45 @@
-## Hello World!
+## Hello World! 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-toscano/)
-[<img src="https://img.shields.io/github/followers/dylanson25?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dylanson25) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dylan_toscano_25/)
+[![Website](https://img.shields.io/badge/-dylanson25.dev-871486?style=flat&logo=googlechrome&logoColor=white)](https://dylanson25.dev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-toscano/)
+[<img src="https://img.shields.io/github/followers/dylanson25?label=follow&style=social" height="20" title="Follow me" />](https://github.com/dylanson25)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dylan_toscano_25/)
 
+I'm **Dylan Villarreal Toscano**, a software and automation engineer working across desktop applications, industrial systems, and the web.
 
+I currently work as a Software Engineer at **Irwin Research & Development**, where I:
 
-My name is Dylan Villarreal Toscano, a highly motivated software developer currently working as a Software Engineer at Irwin Research & Development. In my role, I utilize tools such as Visual Studio, C#, C++, .NET Framework, and Windows Forms to develop and maintain software solutions.
+- Migrate legacy C#/.NET Framework and Windows Forms applications to **.NET 10**
+- Build **OPC UA** integrations between **Siemens S7-1500** PLCs and **FactoryTalk Optix**
+- Support internal IT infrastructure (Windows Server, Group Policy, SQL reporting)
 
-I graduated in July 2023 from the University of Colima, where I earned my degree in Software Engineering from the Faculty of Telematics. Throughout my academic and professional journey, I have built a solid foundation in software development, honing my skills through hands-on projects and diverse experiences.
+Before that, I spent 1 year and 7 months at **HMH Sistemas** building web and mobile applications with **React, Vue, Next.js, and React Native**, while finishing my degree in Software Engineering at the Faculty of Telematics, **Universidad de Colima** (2023).
 
-During my time at HMH Sistemas in Colima, where I worked for 1 year and 7 months while studying, I specialized in React and Vue technologies. I gained valuable experience developing web and mobile applications using React Native, and I believe that following best practices is crucial to producing high-quality code. I take pride in delivering clean, efficient, and maintainable solutions.
+I care about clean, maintainable code and about understanding the full system, from the PLC tag to the UI that displays it.
 
-In addition to my technical expertise, I possess essential soft skills that make a well-rounded software developer. Effective communication, problem-solving, time management, attention to detail, and teamwork are skills that I consistently apply in my work.
+### 🛠️ Tech I work with
 
-I am a quick learner, a dedicated worker, and a team player. My experience and skill set make me a valuable asset to any team, and I am always eager to learn, grow, and contribute.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,windows,react,vue,nextjs,ts,nodejs,vite,git,figma,linux&perline=12" alt="C#, .NET, Windows, React, Vue, Next.js, TypeScript, Node.js, Vite, Git, Figma, Linux" />
+</p>
 
+### 🌱 Currently learning
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,graphql,astro" alt="AWS, Docker, GraphQL, Astro" />
+</p>
 
-- I’m currently work  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-- 🌱 I’m currently learning
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://github.com/graphql/graphql-playground/blob/main/packages/graphql-playground-electron/static/icons/icon.ico"></code>
-<code><img height="20" src="https://github.com/astro-community/icons/blob/main/example/public/favicon.ico"></code>
+### 💬 About me
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
+- Ask me about programming in general. I'm always happy to help and learn together.
+- 🌐 Check out my website: [dylanson25.dev](https://dylanson25.dev/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dylan-toscano/) 
+- 🌎 I work in English and Spanish.
 
-- 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Dylanson25#9843 </a>
+### 📊 Stats
 
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=dylanson25&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
+<img title="GitHub stats" width="420" src="https://github-readme-stats.vercel.app/api?username=dylanson25&hide=issues&count_private=true&show_icons=true&icon_color=871486&title_color=000000&bg_color=ffffff" />
 
 [![An image of @dylanson25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dylanson25)](https://holopin.io/@dylanson25)
 
-:star: From [Dylanson25](https://github.com/dylanson25)
+⭐ From [dylanson25](https://github.com/dylanson25)
